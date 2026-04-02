@@ -20,7 +20,13 @@ Economista con más de diez años de experiencia en instituciones financieras. E
 
 ### 🧾 Experiencia Profesional
 
-**Especialista en Riesgo No Financiero**  
+**Oficial de Cumplimiento Corporativo**  
+_Banco Falabella – Perú | 2025 – Actualidad_  
+
+**Coordinador de Oficialía de Cumplimiento**  
+_Banco Falabella – Perú | 2024 – 2025_  
+
+**Especialista de Cumplimiento**  
 _Banco Pichincha – Perú | 2019 – Actualidad_  
 - Consolidación de bases de datos de clientes (personas naturales y jurídicas) para monitoreo de señales de alerta.
 - Generación de reportes automatizados en RMarkdown.
@@ -29,7 +35,7 @@ _Banco Pichincha – Perú | 2019 – Actualidad_
 **Analista de Riesgos y Cumplimiento**  
 _Superintendencia de Banca, Seguros y AFP (SBS) | 2016 – 2019_  
 - Participación en evaluaciones del sistema de prevención de lavado de activos en bancos.
-- Análisis de transacciones sospechosas a través de modelado estadístico básico.
+- Análisis de transacciones sospechosas a través de modelado estadístico.
 
 **Asistente de Investigación Académica**  
 _Universidad Nacional Mayor de San Marcos | 2014 – 2016_  
