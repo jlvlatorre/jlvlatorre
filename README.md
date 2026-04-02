@@ -6,7 +6,7 @@ Lima, Perú • [jlv.latorre@gmail.com](mailto:jlv.latorre@gmail.com) • [Linke
 ---
 
 ### 🎯 Perfil Profesional
-Economista con más de ocho años de experiencia en instituciones financieras y entidades públicas. Experto en prevención de lavado de activos, análisis de riesgo no financiero, visualización de datos, y consolidación de información en entornos SQL y R. Capacidad para diseñar soluciones analíticas, automatizar reportes regulatorios y liderar iniciativas de capacitación técnica.
+Economista con más de diez años de experiencia en instituciones financieras. Experto en prevención de lavado de activos, análisis de riesgo no financiero, visualización de datos, y consolidación de información en entornos SQL y R. Capacidad para diseñar soluciones analíticas, automatizar reportes regulatorios y liderar iniciativas de capacitación técnica.
 
 ---
 
