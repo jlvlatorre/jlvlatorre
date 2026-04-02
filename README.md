@@ -44,9 +44,10 @@ _Universidad Nacional Mayor de San Marcos | 2014 – 2016_
 ---
 
 ### 🎓 Formación Académica
-- **Maestría en Economía** – Universidad de Buenos Aires (UBA)
-- **Maestría en Gestión Pública y Estadística Matemática** – Universidad Nacional Mayor de San Marcos
-- **Licenciatura en Economía** – Universidad Nacional Mayor de San Marcos
+- **Maestría en Economía** – Universidad de Buenos Aires
+- **Maestría en Gestión Pública** – Universidad Nacional Mayor de San Marcos
+- **Maestría en Estadística Matemática** – Universidad Nacional Mayor de San Marcos
+- **Licenciatura en Economía** – Universidad de San Martín de Porres
 
 ---
 
